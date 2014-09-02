@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oleemod",
+  "name": "olee's mod",
+  "description": "Just a mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Olee"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
