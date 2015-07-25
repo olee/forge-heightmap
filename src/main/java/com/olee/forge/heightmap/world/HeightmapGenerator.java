@@ -18,8 +18,6 @@ import net.minecraft.world.gen.MapGenCaves;
 
 /**
  * Generates chunks and biomes based on a heightmap
- * 
- * @author Bjoern Zeutzheim
  */
 public class HeightmapGenerator {
 
